@@ -1,0 +1,7 @@
+El Text-to-Speech (TTS) es una tecnología de inteligencia artificial que convierte texto 
+escrito en voz sintetizada. Hoy se utiliza en asistentes virtuales, lectores automáticos,
+ accesibilidad, videojuegos y generación de contenido multimedia. 
+ Los sistemas modernos de TTS emplean redes neuronales profundas capaces de producir
+  voces cada vez más naturales, expresivas y humanas. 
+  Herramientas como OpenAI, Google y ElevenLabs impulsaron grandes avances en calidad,
+   entonación y clonación de voz.
